@@ -1,4 +1,5 @@
 import './App.css';
+import CustomButton from './SubComponent/CustomButton'
 function App() {
   return (
     <div className="App">
@@ -14,6 +15,7 @@ function App() {
         >
           Learn React
         </a>
+        <CustomButton />
       </header>
     </div>
   );
