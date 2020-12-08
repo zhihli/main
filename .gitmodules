@@ -1,0 +1,3 @@
+[submodule "SubCompoent"]
+	path = SubCompoent
+	url = git@github.com:zhihli/SubCompoent.git
