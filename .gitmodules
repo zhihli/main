@@ -1,3 +1,4 @@
 [submodule "src/SubComponent"]
 	path = src/SubComponent
 	url = git@github.com:zhihli/SubComponent.git
+	branch = main
