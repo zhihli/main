@@ -15,7 +15,11 @@ function App() {
         >
           Learn React
         </a>
-        <CustomButton />
+        <div>
+          <CustomButton size={'small'} />
+          <CustomButton />
+          <CustomButton size={'large'} />
+        </div>
       </header>
     </div>
   );
